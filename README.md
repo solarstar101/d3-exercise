@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+First time playing with d3 library having fun for now might turn into an app that will render out data from an api
 
 ## Available Scripts
 
